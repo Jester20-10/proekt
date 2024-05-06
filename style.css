@@ -16,6 +16,10 @@ main{
     width: 100%;
     text-decoration: none;
 }
+main img{
+     width: 100px;
+    height: 60px;
+}
 
 h1{
     text-align: center;
