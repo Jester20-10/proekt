@@ -4,8 +4,11 @@ header{
     color: #058142;
     text-decoration: none;
 }
-nav{
+
+nav a{
+    text-decoration: none;
     color: #058142;
+   
 }
 .jester{
     border-radius: 50%;
@@ -14,10 +17,14 @@ nav{
 main{
     background-color: #87C15A;
     width: 100%;
-    text-decoration: none;
 }
 main img{
-     width: 50%;
+    width: 50%;
+}
+   
+main a{
+ text-decoration: none;
+
 }
 
 h1{
@@ -56,4 +63,7 @@ h2{
     background-color:#FEE4A2;
     font-size: 20px;
     text-align: center;
+}
+footer{
+    background-color: #058241;
 }
