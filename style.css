@@ -21,7 +21,7 @@ main{
 main img{
     width: 50%;
     height: 800px;
-    border: #058142;
+    border:1px solid #058142;
     border-radius: 20px;
 }
    
