@@ -20,8 +20,6 @@ main{
 }
 main img{
     height: 600px;
-    border:1px solid #058142;
-    border-radius: 10px;
      display: flex;
     justify-content: space-between;
    
