@@ -19,9 +19,9 @@ main{
     width: 100%;
 }
 main img{
-    height: 800px;
+    height: 600px;
     border:1px solid #058142;
-    border-radius: 20px;
+    border-radius: 10px;
 }
    
 main a{
