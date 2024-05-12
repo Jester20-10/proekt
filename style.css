@@ -24,7 +24,9 @@ main img{
     justify-content: space-between;
    
 }
-   
+.image{
+    paddind-botomm padding-bottom: 10px;
+}
 main a{
  text-decoration: none;
 
