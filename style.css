@@ -24,7 +24,7 @@ main{
 }
 main img{
     height: 600px;
-     display: flex;
+    display: flex;
     justify-content: space-between;
    
 }
@@ -54,11 +54,18 @@ h1{
 h2{
     text-align: center;
 }
-.website{
+.website {
     background-color: #87C15A;
     display: flex;
     justify-content: space-between;
     padding: 20px;
+}
+.website a {
+    color: #058142;
+    border: 1px solid #FEE4A2;
+    border-radius: 20px;
+    padding: 7px;
+    background-color: #FEE4A2;
 }
 .website p{
     padding:20px;
@@ -72,7 +79,10 @@ h2{
     background-color: #FEE4A2;
     font-size: 20px;
     text-align: center;
+    border-radius: 5px;
+    padding: 4px;
 }
+
 footer{
     background-color: #058241;
      color: white;
