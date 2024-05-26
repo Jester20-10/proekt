@@ -62,12 +62,13 @@ h2{
     
 }
 .text {
-    position: fixed;
-    top: 500px;
+   position: fixed;
+    top: 400px;
     width: 100px;
-    background-color:#FEE4A2;
+    background-color: #FEE4A2;
     font-size: 20px;
     text-align: center;
+}
 }
 footer{
     background-color: #058241;
