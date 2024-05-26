@@ -62,7 +62,7 @@ h2{
     
 }
 .text {
-   position: fixed;
+    position: fixed;
     top: 400px;
     width: 100px;
     background-color: #FEE4A2;
